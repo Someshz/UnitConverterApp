@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Button_to_Convert">Convert Kilo To Pounds</string>
+    <string name="show_here_converted_value">Value in Pound is</string>
+    <string name="Enter_the_value">Enter The value in Kilo</string>
+</resources>
